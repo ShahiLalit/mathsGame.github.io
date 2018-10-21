@@ -1,6 +1,6 @@
 # mathsGame.github.io
 My First JavaScript application. It is a simple mathematics game based on JavaScript
-In this a multiplication of the 2 digits is done and 4 four options are given to choose the right answer from.
+In this a multiplication of the 2 digits is done and 4 options are given to choose the right answer from.
 
 The correct answer increases the score by 1.
 
